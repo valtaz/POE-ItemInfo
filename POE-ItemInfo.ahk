@@ -7681,4 +7681,4 @@ TogglePOEItemScript()
 
 Pause::TogglePOEItemScript()
 
-#Include %A_ScriptDir%/AdditionalMacros.txt
+Include %A_ScriptDir%/AdditionalMacros.txt
